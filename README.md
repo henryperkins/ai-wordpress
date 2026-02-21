@@ -33,8 +33,9 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [CW Bing IndexNow](https://github.com/consultwebs/cw-bing-indexnow) - AI-generated WordPress plugin to auto-submit WP content updates to Bing 
 * [AI Internal Linker](https://github.com/jacobcreo/ai-internallinker) - Internal Linker Plugin for Wordpress 
 * [AiWriter](https://github.com/code-flow/aiwriter) - Boost Your Content Creation with AI-Powered Writing: The Ultimate AiWriter Plugin for WordPress Bloggers and Writers.
-* [GPTEverest](https://github.com/jannis24/gpteverest) - An operational, AI-based agent for WordPress 
-* [Chatbot Assistant](https://github.com/nosfirlabs/ai-chatbot-wordpress) - A wordpress plugin that allows customers to talk to the openai chatbot 
+* [GPTEverest](https://github.com/jannis24/gpteverest) - An operational, AI-based agent for WordPress
+* [ClawWP](https://github.com/hifriendbot/clawwp) - Ai agent for WordPress — manage content, SEO, comments, and media through natural language chat. Supports MCP, cost tracking, and multi-provider LLMs.
+* [Chatbot Assistant](https://github.com/nosfirlabs/ai-chatbot-wordpress) - A wordpress plugin that allows customers to talk to the openai chatbot
 * [ChatGPT OpenAI Plugin](https://github.com/ddxfish/OpenAI-Wordpress-Plugin) - Allows use of the OpenAI in Wordpress. Shortcodes display text prompt or image prompt. 
 * [OpenAI Wordpress plugin](https://github.com/camberry-bug/OpenAI_Wordpress_plugin) - A wordpress plugin that allows the user on a wordpress website to be able to type something into a search-like box, and the question will be sent to the openAI api to retreive and display a response
 * [RippleAi Summary Illustration TTS](https://github.com/CelestialRipple/RippleAi-Summary-Illustration-TTS) - Auto generate summary / illustrate / tts for website(Wordpress, Typecho, Hexo, etc) by RippleAi(Chinese)
